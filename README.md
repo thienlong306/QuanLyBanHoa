@@ -1,4 +1,4 @@
-# QuanLyBanHoa
+# WebsiteBanHoa
 ##Home
 <p align="center">
     <img src="img/Home.PNG" alt="">
