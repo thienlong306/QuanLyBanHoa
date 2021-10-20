@@ -31,7 +31,7 @@
 </p>
 ##Feedback
 <p align="center">
-    <img src="img/Feedback.PNG" alt="">
+    <img src="img/FeedBack.PNG" alt="">
 </p>
 ##Statistical
 <p align="center">
